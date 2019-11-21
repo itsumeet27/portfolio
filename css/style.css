@@ -300,15 +300,12 @@ hr.section{
   padding: 6em 0em;
 }
 
-
-.card-overlay{
-  opacity: 0;
-  transition: .5s ease;
+.card-image img{
+  width: 100%;
 }
 
-.image:hover .card-overlay{
-  opacity: 1;
-  cursor: pointer;
+.card-overlay a.btn{
+  margin: 0;
 }
 
 
