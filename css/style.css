@@ -97,10 +97,14 @@ hr.title {
   margin-left: 3px;
 }
 
-.social-icons img{
-  width: 40px;
-  height: 40px;
-  padding: 5px;
+.social-icons i{
+  color: #363636;
+  font-size: 24px;
+  padding: 0px 0.2em;
+}
+
+.social-icons i:hover{
+  color: #000;
 }
 
 .btn-contact{
@@ -295,6 +299,18 @@ hr.section{
 .portfolio{
   padding: 6em 0em;
 }
+
+
+.card-overlay{
+  opacity: 0;
+  transition: .5s ease;
+}
+
+.image:hover .card-overlay{
+  opacity: 1;
+  cursor: pointer;
+}
+
 
 /* Responsive Media Queries */
 
