@@ -155,11 +155,21 @@ hr.section{
   padding: 6em 0;
 }
 
-.education h1{
+.experience{
+  width: 100%;
+  background: url('../img/sample.jpg');
+  padding: 6em 0;
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.education h1, .experience h1{
   color: #fff;
 }
 
-.education hr.section{
+.education hr.section, .experience hr.section{
   width: 100px;
   border-width: 3px;
   background-color: #fff;
