@@ -2,7 +2,182 @@
 html,
 body,
 .view {
-  height: 100%; }
+  height: 100%; 
+  margin: 0;
+}
+
+html,
+body,
+header,
+.view {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  font-family: Roboto;
+}
+
+.banner {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.details {
+  padding: 2em;
+  z-index: 1000;
+  margin-top: 8em;
+}
+
+.details h6 {
+  font-family: Poppins;
+  color: #363636;
+  font-weight: 500;
+  padding-left: 5px;
+}
+
+.details h1 {
+  font-size: 48px;
+  font-family: Righteous;
+  color: #363636;
+}
+
+.razorBlade {
+  position: relative;
+  width: 100%;
+  padding-bottom: 8em;
+  background-color: #4D6D79;
+}
+
+.razorBlade:after {
+  position: absolute;
+  width: 100%;
+  content: '';
+  background: #fff;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  transform-origin: bottom left;
+  transform: skewY(125deg);
+}
+
+.razorBlade .image-right .image {
+  width: 100%;
+  z-index: 1000;
+  text-align: center;
+  margin-top: 7.5em;
+}
+
+.image img {
+  width: 320px;
+  box-shadow: 20px 20px 2px 0px rgba(255, 255, 255, 1);
+}
+
+hr.title {
+  width: 150px;
+  border-width: 3px;
+  background-color: #363636;
+  text-align: justify;
+  margin-left: 5px;
+  border-radius: 10px 10px;
+}
+
+.details p {
+  line-height: 1.5em;
+  padding-left: 5px;
+}
+
+.social-icons{
+  margin-left: 3px;
+}
+
+.social-icons img{
+  width: 40px;
+  height: 40px;
+  padding: 5px;
+}
+
+.btn-contact{
+  background: #4D6D79;
+  color: #fff;
+  margin-top: 2em;
+}
+
+.btn-contact:hover{
+  color: #fff;
+}
+
+.btn-portfolio{
+  background: #363636;
+  color: #fff;
+  margin-top: 2em;
+}
+
+.btn-portfolio:hover{
+  color: #fff;
+}
+
+#about{
+  padding: 6em 0em;
+}
+
+.education{  
+  padding: 3em 1.5em;
+  border-top: 0;
+  box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.3);
+}
+
+.education h3{
+  z-index: 1000;
+  position: absolute;
+  top:-0.5em;
+  left: 3em;
+}
+
+.section-title h1{
+  font-family: Poppins;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+#about .row{
+  padding: 1em 0;
+}
+
+hr.section{
+  width: 100px;
+  border-width: 3px;
+  background-color: #363636;
+  text-align: center;
+  border-radius: 10px 10px;
+}
+
+@media (max-width: 740px) {
+
+  html,
+  body,
+  header,
+  .view {
+    height: 1000px;
+  }
+}
+
+@media (min-width: 800px) and (max-width: 850px) {
+
+  html,
+  body,
+  header,
+  .view {
+    height: 650px;
+  }
+}
+
+@media (min-width: 800px) and (max-width: 850px) {
+  .navbar:not(.top-nav-collapse) {
+    background: #1C2331 !important;
+  }
+}
 
 @media (max-width: 740px) {
   .full-page-intro {
