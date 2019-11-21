@@ -290,6 +290,12 @@ hr.section{
   }
 }
 
+/* Portfolio */
+
+.portfolio{
+  padding: 6em 0em;
+}
+
 /* Responsive Media Queries */
 
 @media (max-width: 740px) {
