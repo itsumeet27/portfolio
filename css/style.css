@@ -165,16 +165,32 @@ hr.section{
   background-size: cover;
 }
 
-.education h1, .experience h1{
+.education h1, .experience h1, .contact h1{
   color: #fff;
 }
 
-.education hr.section, .experience hr.section{
+.education hr.section, .experience hr.section, .contact hr.section{
   width: 100px;
   border-width: 3px;
   background-color: #fff;
   text-align: center;
   border-radius: 10px 10px;
+}
+
+.contact h3{
+  text-transform: uppercase;
+}
+
+.contact-form p{
+  padding: 0.75rem;
+}
+
+.contact-form div form{
+  padding: 0.75rem;
+}
+
+.contact-form div form input[type='text'], .contact-form div form textarea[type='text'], .contact-form div form label{
+  color: #fff;
 }
 
 /* Timeline */
@@ -306,7 +322,7 @@ hr.section{
 
 /* Portfolio */
 
-.portfolio, .certifications{
+.portfolio, .certifications, .contact{
   padding: 6em 0em;
 }
 
@@ -325,6 +341,20 @@ hr.section{
 .certification a:hover{
   text-decoration: underline;
 }
+
+#contact{
+  width: 100%;
+  background: url('../img/sample.jpg');
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.contact-overlay{
+  background: rgba(0,0,0,0.7);
+}
+
 
 
 /* Responsive Media Queries */
