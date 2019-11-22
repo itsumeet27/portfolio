@@ -91,7 +91,7 @@
     <!--Section: Education-->
     <div class="education">
       <!--Section: Main info-->
-      <section class="wow fadeIn">
+      <section class="animated fadeIn">
         <div class="section-title p-4 text-center">
           <h1 class="h1-responsive">Education</h1>
           <hr class="section">

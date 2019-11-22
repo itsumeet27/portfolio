@@ -1,5 +1,5 @@
   <!--Footer-->
-  <footer class="page-footer text-center font-small wow fadeIn">
+  <footer class="page-footer text-center font-small animated fadeIn">
 
     <!-- Social icons -->
     <div class="p-2 footer-social">
