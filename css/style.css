@@ -107,6 +107,11 @@ hr.title {
   color: #000;
 }
 
+.footer-social{
+  color: #fff;
+  font-size: 16px;
+}
+
 .btn-contact{
   background: #4D6D79;
   color: #fff;
