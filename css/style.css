@@ -306,7 +306,7 @@ hr.section{
 
 /* Portfolio */
 
-.portfolio{
+.portfolio, .certifications{
   padding: 6em 0em;
 }
 
@@ -317,6 +317,15 @@ hr.section{
 .card-overlay a.btn{
   margin: 0;
 }
+
+.certifications table th, .certifications table td, .certifications table.table-bordered{
+  border: 1px solid #000;
+}
+
+.certification a:hover{
+  text-decoration: underline;
+}
+
 
 /* Responsive Media Queries */
 
