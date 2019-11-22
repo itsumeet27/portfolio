@@ -342,7 +342,7 @@ hr.section{
   text-decoration: underline;
 }
 
-#contact{
+#contact, #experience{
   width: 100%;
   background: url('../img/sample.jpg');
   background-attachment: fixed;
@@ -351,8 +351,8 @@ hr.section{
   background-size: cover;
 }
 
-.contact-overlay{
-  background: rgba(0,0,0,0.7);
+.contact-overlay, .experience-overlay{
+  background: rgba(0,0,0,0.75);
 }
 
 
