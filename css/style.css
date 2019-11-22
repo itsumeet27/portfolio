@@ -35,7 +35,7 @@ header,
 }
 
 .details h6 {
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
   color: #363636;
   font-weight: 500;
   padding-left: 5px;
@@ -137,7 +137,7 @@ hr.title {
 }
 
 .section-title h1{
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
   text-transform: uppercase;
   font-weight: 400;
 }
