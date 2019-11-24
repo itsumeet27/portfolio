@@ -9,13 +9,13 @@
 		<!--Grid row-->
 		<div class="row">
 			<!--Grid column-->
-			<div class="col-md-6 mb-4 animated fadeInLeft slow">
+			<div class="col-md-6 mb-4 animated fadeInLeft">
 				<img src="img/sumit.jpg" class="img-fluid z-depth-1-half" alt="">
 			</div>
 			<!--Grid column-->
 
 			<!--Grid column-->
-			<div class="col-md-6 mb-4 animated fadeInRight slow delay-1s">
+			<div class="col-md-6 mb-4 animated fadeInRight">
 				<p class="text-justify lead">
 					Experienced Web Developer with a demonstrated history of working in the higher education industry. Skilled
 					in
