@@ -1,6 +1,6 @@
 <?php include ('includes/header.php'); ?>
 <!-- Section: Certifications -->
-<div class="container animated fadeIn slow">
+<div class="container animated fadeIn">
 	<section class="certifications" id="certifications">
 		<div class="section-title p-4 text-center">
 			<h1 class="h1-responsive">Online Certifications</h1>
