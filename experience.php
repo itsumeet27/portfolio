@@ -7,7 +7,7 @@
 			<hr class="section">
 		</div>
 		<div class="timeline">
-			<div class="timeline-container left animated slideInLeft slow delay-1s">
+			<div class="timeline-container left animated slideInLeft slow">
 				<div class="content">
 					<h6 class="h6-responsive text-justify">Graduate Engineering Trainee</h6>
 					<h4 class="h4-responsive text-left">Larsen and Toubro Infotech, Airoli (E), Mumbai</h4>
@@ -26,7 +26,7 @@
 					<span class="float-right"><i>December 2018 - Current</i></span>
 				</div>
 			</div>
-			<div class="timeline-container right animated slideInRight slow delay-2s">
+			<div class="timeline-container right animated slideInRight slow">
 				<div class="content">
 					<h6 class="h6-responsive text-justify">Web Development Manager</h6>
 					<h4 class="h4-responsive text-left">Luka Enterprises, Andheri (W), Mumbai</h4>
@@ -42,7 +42,7 @@
 					<span class="float-right"><i>August 2018 – December 2018</i></span>
 				</div>
 			</div>
-			<div class="timeline-container left animated slideInLeft slow delay-3s">
+			<div class="timeline-container left animated slideInLeft slow">
 				<div class="content">
 					<h6 class="h6-responsive text-justify">Web Developer</h6>
 					<h4 class="h4-responsive text-left">Indian Institute of Digital Education (IIDE), Andheri (W), Mumbai</h4>

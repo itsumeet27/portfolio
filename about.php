@@ -9,7 +9,7 @@
 		<!--Grid row-->
 		<div class="row">
 			<!--Grid column-->
-			<div class="col-md-6 mb-4 animated fadeInLeft slow delay-1s">
+			<div class="col-md-6 mb-4 animated fadeInLeft slow">
 				<img src="img/sumit.jpg" class="img-fluid z-depth-1-half" alt="">
 			</div>
 			<!--Grid column-->
@@ -65,7 +65,7 @@
 					<h5 class="h5-responsive float-left">Result (CGPA): </h5><span class="float-right">7.98/10</span>
 				</div>
 			</div>
-			<div class="timeline-container right animated slideInRight slow delay-2s">
+			<div class="timeline-container right animated slideInRight slow delay-1s">
 				<div class="content">
 					<h2 class="h2-responsive text-left">2012-2014</h2>
 					<h4 class="h4-responsive text-justify">Higher Secondary Certificate (HSC)</h4>
@@ -76,7 +76,7 @@
 					<h5 class="h5-responsive float-left">Result: </h5><span class="float-right">80.62%</span>
 				</div>
 			</div>
-			<div class="timeline-container left animated slideInLeft slow delay-3s">
+			<div class="timeline-container left animated slideInLeft slow delay-1s">
 				<div class="content">
 					<h2 class="h2-responsive text-left">2011-2012</h2>
 					<h4 class="h4-responsive text-justify">Secondary School Certificate (HSC)</h4>

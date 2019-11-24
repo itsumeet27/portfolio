@@ -8,7 +8,7 @@
 			<hr class="section">
 		</div>
 		<div class="row">
-			<div class="col-md-4 animated fadeInLeft delay-3s slow">
+			<div class="col-md-4 animated fadeInLeft slow">
 				<!-- Card -->
 				<div class="card card-image m-2">
 					<!-- Content -->
@@ -23,7 +23,7 @@
 				</div>
 				<!-- Card -->
 			</div>
-			<div class="col-md-4 animated fadeInUp delay-3s slow">
+			<div class="col-md-4 animated fadeInUp slow">
 				<!-- Card -->
 				<div class="card card-image m-2">
 					<!-- Content -->
@@ -40,7 +40,7 @@
 				</div>
 				<!-- Card -->
 			</div>
-			<div class="col-md-4 animated fadeInRight delay-3s slow">
+			<div class="col-md-4 animated fadeInRight slow">
 				<!-- Card -->
 				<div class="card card-image m-2">
 					<!-- Content -->
