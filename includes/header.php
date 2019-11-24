@@ -39,19 +39,19 @@
             <a class="nav-link" href="index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#about">About</a>
+            <a class="nav-link" href="about.php">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#portfolio">Portfolio</a>
+            <a class="nav-link" href="portfolio.php">Portfolio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#experience">Work Experience</a>
+            <a class="nav-link" href="experience.php">Work Experience</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#certifications">Certifications</a>
+            <a class="nav-link" href="certifications.php">Certifications</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#contact">Contact</a>
+            <a class="nav-link" href="contact.php">Contact</a>
           </li>
         </ul>
         <!-- Right -->
