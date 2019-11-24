@@ -27,8 +27,8 @@
         <i class="fab fa-github mr-2" title="GitHub"></i>
       </a>
     </div>
-    <a href="" class="btn btn-portfolio">Portfolio</a>
-    <a href="" class="btn btn-contact">Hire Me</a>
+    <a href="portfolio.php" class="btn btn-portfolio">Portfolio</a>
+    <a href="contact.php" class="btn btn-contact">Hire Me</a>
   </div>
   <div class="col-md-6 razorBlade">
     <div class="row image-right">
