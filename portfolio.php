@@ -132,41 +132,76 @@
               </div>
             </div>
             <div class="design mt-4">
-              <div class="row pt-3">
-                <div class="col-md-4 animated fadeIn">
-                  <!-- Card -->
-                  <div class="card card-image" style="height: 100%">
-                    <!-- Content -->
-                    <img src="img/design/Business Card.png" style="width: 100%" />
-                    <div class="card-overlay p-4">
-                      <h3 class="card-title pt-2"><strong>Business Card</strong></h3>
-                    </div>
-                  </div>
-                  <!-- Card -->
-                </div>
-                <div class="col-md-4 animated fadeIn">
-                  <!-- Card -->
-                  <div class="card card-image" style="height: 100%">
-                    <!-- Content -->
-                    <img src="img/design/Identity Card.png" style="width: 100%" />
-                    <div class="card-overlay p-4">
-                      <h3 class="card-title pt-2"><strong>Identity Card</strong></h3>
-                    </div>
-                  </div>
-                  <!-- Card -->
-                </div>
-                <div class="col-md-4 animated fadeIn">
-                  <!-- Card -->
-                  <div class="card card-image" style="height: 100%">
-                    <!-- Content -->
-                    <img src="img/design/Profile Banner.png" style="width: 100%" />
-                    <div class="card-overlay p-4">
-                      <h3 class="card-title pt-2"><strong>Profile Banner</strong></h3>
-                    </div>
-                  </div>
-                  <!-- Card -->
-                </div>
-              </div>
+				<div class="row pt-3">
+					<div class="col-md-4 animated fadeIn">
+					<!-- Card -->
+					<div class="card card-image" style="height: 100%">
+						<!-- Content -->
+						<img src="img/design/Business Card.png" style="width: 100%" />
+						<div class="card-overlay p-4">
+						<h3 class="card-title pt-2"><strong>Business Card</strong></h3>
+						</div>
+					</div>
+					<!-- Card -->
+					</div>
+					<div class="col-md-4 animated fadeIn">
+					<!-- Card -->
+					<div class="card card-image" style="height: 100%">
+						<!-- Content -->
+						<img src="img/design/Identity Card.png" style="width: 100%" />
+						<div class="card-overlay p-4">
+						<h3 class="card-title pt-2"><strong>Identity Card</strong></h3>
+						</div>
+					</div>
+					<!-- Card -->
+					</div>
+					<div class="col-md-4 animated fadeIn">
+					<!-- Card -->
+					<div class="card card-image" style="height: 100%">
+						<!-- Content -->
+						<img src="img/design/Profile Banner.png" style="width: 100%" />
+						<div class="card-overlay p-4">
+						<h3 class="card-title pt-2"><strong>Profile Banner</strong></h3>
+						</div>
+					</div>
+					<!-- Card -->
+					</div>
+				</div>
+				<div class="row pt-3">
+					<div class="col-md-4 animated fadeIn">
+					<!-- Card -->
+					<div class="card card-image" style="height: 100%">
+						<!-- Content -->
+						<img src="img/design/Mailer.png" style="width: 100%" />
+						<div class="card-overlay p-4">
+						<h3 class="card-title pt-2"><strong>Dance Mailer</strong></h3>
+						</div>
+					</div>
+					<!-- Card -->
+					</div>
+					<div class="col-md-4 animated fadeIn">
+					<!-- Card -->
+					<div class="card card-image" style="height: 100%">
+						<!-- Content -->
+						<img src="img/design/Pamphlet.png" style="width: 100%" />
+						<div class="card-overlay p-4">
+						<h3 class="card-title pt-2"><strong>Dance Pamphlet</strong></h3>
+						</div>
+					</div>
+					<!-- Card -->
+					</div>
+					<div class="col-md-4 animated fadeIn">
+					<!-- Card -->
+					<div class="card card-image" style="height: 100%">
+						<!-- Content -->
+						<img src="img/design/Trip Mailer.png" style="width: 100%" />
+						<div class="card-overlay p-4">
+						<h3 class="card-title pt-2"><strong>Trip Mailer</strong></h3>
+						</div>
+					</div>
+					<!-- Card -->
+					</div>
+				</div>
             </div>
           </div>
           <div class="tab-pane fade" id="web" role="tabpanel" aria-labelledby="web-tab">
@@ -316,6 +351,41 @@
                   <!-- Card -->
                 </div>
               </div>
+			  <div class="row pt-3">
+					<div class="col-md-4 animated fadeIn">
+					<!-- Card -->
+					<div class="card card-image" style="height: 100%">
+						<!-- Content -->
+						<img src="img/design/Mailer.png" style="width: 100%" />
+						<div class="card-overlay p-4">
+						<h3 class="card-title pt-2"><strong>Dance Mailer</strong></h3>
+						</div>
+					</div>
+					<!-- Card -->
+					</div>
+					<div class="col-md-4 animated fadeIn">
+					<!-- Card -->
+					<div class="card card-image" style="height: 100%">
+						<!-- Content -->
+						<img src="img/design/Pamphlet.png" style="width: 100%" />
+						<div class="card-overlay p-4">
+						<h3 class="card-title pt-2"><strong>Dance Pamphlet</strong></h3>
+						</div>
+					</div>
+					<!-- Card -->
+					</div>
+					<div class="col-md-4 animated fadeIn">
+					<!-- Card -->
+					<div class="card card-image" style="height: 100%">
+						<!-- Content -->
+						<img src="img/design/Trip Mailer.png" style="width: 100%" />
+						<div class="card-overlay p-4">
+						<h3 class="card-title pt-2"><strong>Trip Mailer</strong></h3>
+						</div>
+					</div>
+					<!-- Card -->
+					</div>
+				</div>
             </div>
           </div>
         </div>
