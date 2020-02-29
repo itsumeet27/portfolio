@@ -194,7 +194,7 @@
 					<!-- Card -->
 					<div class="card card-image" style="height: 100%">
 						<!-- Content -->
-						<img src="img/design/Trip Mailer.png" style="width: 100%" />
+						<img src="img/design/Trip Mailer.PNG" style="width: 100%" />
 						<div class="card-overlay p-4">
 						<h3 class="card-title pt-2"><strong>Trip Mailer</strong></h3>
 						</div>
@@ -378,7 +378,7 @@
 					<!-- Card -->
 					<div class="card card-image" style="height: 100%">
 						<!-- Content -->
-						<img src="img/design/Trip Mailer.png" style="width: 100%" />
+						<img src="img/design/Trip Mailer.PNG" style="width: 100%" />
 						<div class="card-overlay p-4">
 						<h3 class="card-title pt-2"><strong>Trip Mailer</strong></h3>
 						</div>
