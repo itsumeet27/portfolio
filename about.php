@@ -37,7 +37,7 @@
 					<i class="fas fa-code-branch" title="GitHub"></i>
 
 				</div>
-				<a href="" class="btn btn-contact mt-4 ml-0">Read More</a>
+				<a href="#experience" class="btn btn-contact mt-4 ml-0">Read More</a>
 			</div>
 			<!--Grid column-->
 		</div>
@@ -46,9 +46,9 @@
 </div>
 
 <!--Section: Education-->
-<div class="education">
+<div id="experience">
 	<!--Section: Main info-->
-	<section class="animated fadeIn">
+	<div class="experience-overlay experience">
 		<div class="section-title p-4 text-center">
 			<h1 class="h1-responsive">Education</h1>
 			<hr class="section">
@@ -88,6 +88,6 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</div>
 </div>
 <?php include ('includes/footer.php'); ?>

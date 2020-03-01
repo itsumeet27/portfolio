@@ -9,16 +9,24 @@
 		<div class="timeline">
 			<div class="timeline-container left animated slideInLeft slow">
 				<div class="content">
-					<h6 class="h6-responsive text-justify">Graduate Engineering Trainee</h6>
+					<h6 class="h6-responsive text-justify">Software Engineer</h6>
 					<h4 class="h4-responsive text-left">Larsen and Toubro Infotech, Airoli (E), Mumbai</h4>
 					<p class="text-justify">
 						<ul>
-							<li>Practice on SOA (Service Oriented Architecture) and OSB (Oracle Service Bus) for
-								developing services
+							<li>
+							Developing a solution for client to raise incident on the purchases made in the web application using Oracle VBCS (Visual Builder Cloud Service).
 							</li>
-							<li>APWF Support for providing support on a project based on I/PM (Imaging and Process
+							<li>
+								Creating services and business objects and mapping variables for assigning fetching data using action chains and events
+							</li>
+							<li>
+								APWF Support for providing support on a project based on I/PM (Imaging and Process
 								Management) Technology for incidents occurring due to faults in email processed by the
 								server
+							</li>
+							<li>
+								Practice on SOA (Service Oriented Architecture) and OSB (Oracle Service Bus) for
+								developing services
 							</li>
 						</ul>
 					</p>
