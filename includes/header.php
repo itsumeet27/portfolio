@@ -57,12 +57,12 @@
         <!-- Right -->
         <ul class="navbar-nav nav-flex-icons">
           <li class="nav-item">
-            <a href="https://www.facebook.com/profile.php?id=100007900753991" class="nav-link" target="_blank">
+            <a href="https://www.facebook.com/itsumeet" class="nav-link" target="_blank">
               <i class="fab fa-facebook-f"></i>
             </a>
           </li>
           <li class="nav-item">
-            <a href="https://twitter.com/sumeet_270296" class="nav-link" target="_blank">
+            <a href="https://twitter.com/itsumeet27" class="nav-link" target="_blank">
               <i class="fab fa-twitter"></i>
             </a>
           </li>
@@ -72,12 +72,12 @@
             </a>
           </li>
           <li class="nav-item">
-            <a href="https://instagram.com/sumit270296" class="nav-link" target="_blank">
+            <a href="https://instagram.com/itsumeet27" class="nav-link" target="_blank">
               <i class="fab fa-instagram"></i>
             </a>
           </li>
           <li class="nav-item">
-            <a href="https://github.com/sumit270296" class="nav-link" target="_blank">
+            <a href="https://github.com/itsumeet27" class="nav-link" target="_blank">
               <i class="fab fa-github mr-2"></i>
             </a>
           </li>
