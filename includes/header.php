@@ -5,7 +5,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Web Developer | Sumeet Sharma</title>
+  <meta name="description" content="Experienced Web Developer with a demonstrated history of working in the higher education industry. Skilled in Web framework such as Django, and PHP, WordPress, Java, HTML, CSS, Javascript, Bootstrap, Responsive Web Design, and Leadership.">
+  <title>Sumeet Sharma - Software Engineer | UI/Frontend Developer | Web Developer</title>
+  <link rel="canonical" href="https://itsumeet.com/">
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Poppins|Righteous&display=swap" rel="stylesheet">
   <!-- Font Awesome -->
