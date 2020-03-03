@@ -50,9 +50,6 @@
             <a class="nav-link" href="experience.php">Work Experience</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="certifications.php">Certifications</a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="contact.php">Contact</a>
           </li>
         </ul>
