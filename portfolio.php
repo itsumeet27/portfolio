@@ -107,7 +107,7 @@
                       <h3 class="card-title pt-2"><strong>Khadi Premium Cosmetics</strong></h3>
                       <p class="text-justify">A wide range of natural and herbal cosmetic
                         products to take care for your skin, hair and body. </p>
-                      <a class="btn btn-outline-black" href="http://itsumeet.com/khadipremiumcosmetics"><i
+                      <a class="btn btn-outline-black" href="http://itsumeet.com/khadi"><i
                           class="fas fa-clone left"></i>
                         View project</a>
                     </div>
