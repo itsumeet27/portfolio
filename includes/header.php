@@ -8,6 +8,8 @@
   <meta name="description" content="Experienced Web Developer with a demonstrated history of working in the higher education industry. Skilled in Web framework such as Django, and PHP, WordPress, Java, HTML, CSS, Javascript, Bootstrap, Responsive Web Design, and Leadership.">
   <title>Sumeet Sharma - Software Engineer | UI/Frontend Developer | Web Developer</title>
   <link rel="canonical" href="https://itsumeet.com/">
+  <!-- Site Icon -->
+  <link rel="icon" href="img/Me.jpg" type="image/x-icon">
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Poppins|Righteous&display=swap" rel="stylesheet">
   <!-- Font Awesome -->
