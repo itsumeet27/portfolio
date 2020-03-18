@@ -10,6 +10,8 @@
   <link rel="canonical" href="https://itsumeet.com/">
   <!-- Site Icon -->
   <link rel="icon" href="img/Me.jpg" type="image/x-icon">
+  <!-- Linkedin -->
+  <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Poppins|Righteous&display=swap" rel="stylesheet">
   <!-- Font Awesome -->

@@ -33,54 +33,7 @@
 					</div>
 				</div>
 				<div class="col-md-6 p-2 animated fadeInRight">
-					<section class="contact-form">
-
-						<!--Section heading-->
-						<h3 class="h3-responsive text-justify p-2">Drop a message!</h3>
-						<!--Section description-->
-						<p class="text-justify w-responsive">Do you have any questions? Please do not hesitate to contact us directly. Our team will come back to you within
-						a matter of hours to help you.</p>
-
-						<div>
-							<form id="contact-form" name="contact-form" action="mail.php" method="POST">
-								<div class="row">
-									<div class="col-md-6">
-										<div class="md-form mb-0">
-											<input type="text" id="name" name="name" class="form-control">
-											<label for="name" class="">Your name</label>
-										</div>
-									</div>
-									<div class="col-md-6">
-										<div class="md-form mb-0">
-											<input type="text" id="email" name="email" class="form-control">
-											<label for="email" class="">Your email</label>
-										</div>
-									</div>
-								</div>
-								<div class="row">
-									<div class="col-md-12">
-										<div class="md-form mb-0">
-											<input type="text" id="subject" name="subject" class="form-control">
-											<label for="subject" class="">Subject</label>
-										</div>
-									</div>
-								</div>
-								<div class="row">
-									<div class="col-md-12">
-										<div class="md-form">
-											<textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
-											<label for="message">Your message</label>
-										</div>
-									</div>
-								</div>
-							</form>
-
-							<div class="text-center text-md-left">
-								<a class="btn btn-outline-white" onclick="document.getElementById('contact-form').submit();">Send</a>
-							</div>
-							<div class="status"></div>
-						</div>
-					</section>
+					<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="itsumeet"><a class="LI-simple-link" href='https://in.linkedin.com/in/itsumeet?trk=profile-badge'>Sumeet Sharma</a></div>
 				</div>
 			</div>
 		</div>
