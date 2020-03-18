@@ -9,7 +9,7 @@
   <title>Sumeet Sharma - Software Engineer | UI/Frontend Developer | Web Developer</title>
   <link rel="canonical" href="https://itsumeet.com/">
   <!-- Site Icon -->
-  <link rel="icon" href="img/Me.jpg" type="image/x-icon" style="border-radius: 50px;">
+  <link rel="icon" href="img/favicon.png" type="image/x-icon">
   <!-- Linkedin -->
   <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
   <!-- Fonts -->
