@@ -1,3 +1,11 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="description" content="Along with the interest in Web Development and Frontend Development I have work experience of 2.5-3 years right from the internship to my current job in LTI. For more details on my work in each company, you can visit here.">
+  <title>Experience | Sumeet Sharma - Software Engineer | UI/Frontend Developer | Web Developer</title>
+  <link rel="canonical" href="https://itsumeet.com/">
+</head>
 <?php include ('includes/header.php'); ?>
 <!-- Section: Work Experience -->
 <div id="experience">

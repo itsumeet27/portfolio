@@ -1,3 +1,11 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="description" content="For any queries or information related to my profile or the projects you can get the contact details here. Please feel free to call or drop an email for query or requirement.">
+  <title>Contact | Sumeet Sharma - Software Engineer | UI/Frontend Developer | Web Developer</title>
+  <link rel="canonical" href="https://itsumeet.com/">
+</head>
 <?php include ('includes/header.php'); ?>
 <!-- Section: Contact -->
 <div id="contact">
