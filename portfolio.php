@@ -135,24 +135,6 @@
                 </div>
                 <!-- Card -->
               </div>
-              <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mt-3 animated fadeInLeft">
-                <!-- Card -->
-                <div class="card card-image" style="height: 100%">
-                  <!-- Content -->
-                  <img src="img/portfolio/purab-printer.png"
-                  style="width: 100%" />
-                  <div class="card-overlay p-4">
-                    <h6 class="black-text"><i class="fas fa-person-booth"></i> Website</h6>
-                    <h3 class="card-title pt-2"><strong>Purab Printer</strong></h3>
-                    <p class="text-justify">A printing and packaging company that prints labels, posters, flyers, etc.  and create cartons
-                    </p>
-                    <a class="btn btn-outline-black" href="http://purabprinter.com"><i
-                      class="fas fa-clone left"></i>
-                    View project</a>
-                  </div>
-                </div>
-                <!-- Card -->
-              </div>
             </div>
           </div>
           <div class="design mt-4">
@@ -326,24 +308,6 @@
                     <h3 class="card-title pt-2"><strong>Women Empowerment</strong></h3>
                     <p class="text-justify">A PHP Web Application Portal developed for the women who want to start their career belonging to any background and work independently by learning various courses provided by different NGO(s) under the STEP Scheme. </p>
                     <a class="btn btn-outline-black" href="http://itsumeet.com/women-empowerment"><i class="fas fa-clone left"></i>
-                    View project</a>
-                  </div>
-                </div>
-                <!-- Card -->
-              </div>
-              <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mt-3 animated fadeInLeft">
-                <!-- Card -->
-                <div class="card card-image" style="height: 100%">
-                  <!-- Content -->
-                  <img src="img/portfolio/purab-printer.png"
-                  style="width: 100%" />
-                  <div class="card-overlay p-4">
-                    <h6 class="black-text"><i class="fas fa-person-booth"></i> Website</h6>
-                    <h3 class="card-title pt-2"><strong>Purab Printer</strong></h3>
-                    <p class="text-justify">A printing and packaging company that prints labels, posters, flyers, etc.  and create cartons
-                    </p>
-                    <a class="btn btn-outline-black" href="http://purabprinter.com"><i
-                      class="fas fa-clone left"></i>
                     View project</a>
                   </div>
                 </div>
