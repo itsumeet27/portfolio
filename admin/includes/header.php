@@ -9,7 +9,7 @@
   <title>Sumeet Sharma - Software Engineer | UI/Frontend Developer | Web Developer</title>
   <link rel="canonical" href="https://itsumeet.com/">
   <!-- Site Icon -->
-  <link rel="icon" href="img/favicon.png" type="image/x-icon">
+  <link rel="icon" href="../img/favicon.png" type="image/x-icon">
   <!-- Linkedin -->
   <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
   <!-- Fonts -->
@@ -17,16 +17,16 @@
   <!-- Font Awesome -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
   <!-- Bootstrap core CSS -->
-  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="../css/bootstrap.min.css" rel="stylesheet">
   <!-- Material Design Bootstrap -->
-  <link href="css/mdb.min.css" rel="stylesheet">
+  <link href="../css/mdb.min.css" rel="stylesheet">
   <!-- Your custom styles (optional) -->
-  <link href="css/style.min.css" rel="stylesheet">
-  <link href="css/style.css" rel="stylesheet">
+  <link href="../css/style.min.css" rel="stylesheet">
+  <link href="../css/style.css" rel="stylesheet">
 </head>
 <body>
   <!-- Navbar -->
-  <nav class="navbar fixed-top navbar-expand-lg navbar-dark scrolling-navbar z-depth-0" style="background: #363636;">
+  <nav class="navbar navbar-expand-lg navbar-dark scrolling-navbar z-depth-0" style="background: #363636;">
       <div class="container">
         <!-- Brand -->
         <a class="navbar-brand" href="index.php">
@@ -43,21 +43,6 @@
         <ul class="navbar-nav mr-auto">
           <li class="nav-item">
             <a class="nav-link" href="index.php">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="about.php">About</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="portfolio.php">Portfolio</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="experience.php">Work Experience</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="drawings.php">Drawings</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="contact.php">Contact</a>
           </li>
         </ul>
         <!-- Right -->
