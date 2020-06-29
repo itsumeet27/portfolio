@@ -20,9 +20,12 @@
 					<h6 class="h6-responsive text-justify">Software Engineer</h6>
 					<h4 class="h4-responsive text-left">Larsen and Toubro Infotech, Airoli (E), Mumbai</h4>
 					<p class="text-justify">
-						<ul>
+						<ul class="text-justify">
 							<li>
-							Developing a solution for client to raise incident on the purchases made in the web application using Oracle VBCS (Visual Builder Cloud Service).
+								Developing a web application for an internal platform for multiple functionalities and various tools using technologies such as HTML5, CSS3, Javascript, Bootstrap, PHP and MySQL.
+							</li>
+							<li>
+								Developing a solution for client to raise incident on the purchases made in the web application using Oracle VBCS (Visual Builder Cloud Service).
 							</li>
 							<li>
 								Creating services and business objects and mapping variables for assigning fetching data using action chains and events
