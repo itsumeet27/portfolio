@@ -32,7 +32,7 @@
                 $imagefile = $_FILES['image']['tmp_name'];
                 $imagesize = $_FILES['image']['size'];
 
-                if (!in_array($imageextension, ['jpg','jpeg','png','gif'])) {
+                if (!in_array($imageextension, ['jpg','jpeg','png','gif','PNG','JPG','GIF'])) {
                     echo "You file extension must be jpg, jpeg, png, gif for image files";
                 } elseif ($_FILES['image']['size'] > 10000000) { // file shouldn't be larger than 100Megabyte
                     echo "Files are too large!";
