@@ -108,10 +108,10 @@
         <tbody>
           <?php
             $fetchPortfolio = "SELECT * FROM portfolio ORDER BY name ASC";
-              $readPortfolio = $db->query($fetchPortfolio);
+            $readPortfolio = $db->query($fetchPortfolio);
 
-              if(mysqli_num_rows($readPortfolio) > 0){
-                while($portfolio = mysqli_fetch_assoc($readPortfolio)):
+            if(mysqli_num_rows($readPortfolio) > 0){
+              while($portfolio = mysqli_fetch_assoc($readPortfolio)):
           ?>
           <tr>
             <td>
