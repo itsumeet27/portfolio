@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<?php
+  function sanitize($dirty){
+    return htmlentities($dirty,ENT_QUOTES,"UTF-8");
+  }
+?>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -41,9 +45,8 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <!-- Left -->
         <ul class="navbar-nav mr-auto">
-          <li class="nav-item">
-            <a class="nav-link" href="index.php">Home</a>
-          </li>
+          <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="portfolio.php">Portfolio</a></li>
         </ul>
         <!-- Right -->
         <ul class="navbar-nav nav-flex-icons">
