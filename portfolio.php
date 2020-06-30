@@ -18,36 +18,32 @@
 			<h1 class="h1-responsive">Portfolio</h1>
 			<hr class="section">
 		</div>
-    <div class="tab-content" id="myTabContent">
-      <div class="tab-pane fade show active" id="<?=$category;?>" role="tabpanel" aria-labelledby="<?=$category;?>-tab">
-        <div class="">
-          <div class="row pt-1">            
-            <?php
-              $sql = "SELECT * FROM portfolio";
-              $result = $db->query($sql);
-              if(mysqli_num_rows($result) > 0){
-                      while($portfolio = mysqli_fetch_assoc($result)):
-            ?>
-            <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mt-3 animated fadeIn">
-              <!-- Card -->
-              <div class="card card-image" style="height: 100%">
-                <!-- Content -->
-                <img src="img/portfolio/<?=$portfolio['image'];?>"
-                style="width: 100%" />
-                <div class="card-overlay p-4">
-                  <h3 class="card-title pt-2"><strong><?=$portfolio['name'];?></strong></h3>
-                  <p class="text-justify"><?=$portfolio['description'];?></p>
-                  <?php if($portfolio['url'] != ''): ?>
-                  <a class="btn btn-black" href="<?=$portfolio['url'];?>"><i class="fas fa-clone left"></i>View project</a>
-                  <?php endif; ?>
-                </div>
-              </div>
-              <!-- Card -->
+    <div class="portfolio-data">
+      <div class="row">            
+        <?php
+          $sql = "SELECT * FROM portfolio";
+          $result = $db->query($sql);
+          if(mysqli_num_rows($result) > 0){
+                  while($portfolio = mysqli_fetch_assoc($result)):
+        ?>
+        <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mt-4 animated fadeIn">
+          <!-- Card -->
+          <div class="card card-image" style="height: 100%">
+            <!-- Content -->
+            <img src="img/portfolio/<?=$portfolio['image'];?>"
+            style="width: 100%" />
+            <div class="card-overlay p-4">
+              <h3 class="card-title pt-2"><strong><?=$portfolio['name'];?></strong></h3>
+              <p class="text-justify"><?=$portfolio['description'];?></p>
+              <?php if($portfolio['url'] != ''): ?>
+              <a class="btn btn-black" href="<?=$portfolio['url'];?>"><i class="fas fa-clone left"></i>View project</a>
+              <?php endif; ?>
             </div>
-
-            <?php endwhile; } ?>
           </div>
+          <!-- Card -->
         </div>
+
+        <?php endwhile; } ?>
       </div>
     </div>
     </section>

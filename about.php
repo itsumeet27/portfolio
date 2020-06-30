@@ -8,6 +8,16 @@
 </head>
 <?php include ('includes/header.php'); ?>
 <!--Section: About-->
+<style type="text/css">
+	#education{
+		width: 100%;
+		background: url('img/sample.jpg');
+		background-attachment: fixed;
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+</style>
 <div class="container">
 	<section id="about">
 		<div class="section-title p-4 text-center">
@@ -45,7 +55,7 @@
 					<i class="fas fa-code-branch" title="GitHub"></i>
 
 				</div>
-				<a href="#experience" class="btn btn-contact mt-4 ml-0">Read More</a>
+				<a href="#education" class="btn btn-contact mt-4 ml-0">Read More</a>
 			</div>
 			<!--Grid column-->
 		</div>
@@ -54,7 +64,7 @@
 </div>
 
 <!--Section: Education-->
-<div id="experience">
+<div id="education">
 	<!--Section: Main info-->
 	<div class="experience-overlay experience">
 		<div class="section-title p-4 text-center">
@@ -107,8 +117,8 @@
 			<hr class="section">
 		</div>
 		<div class="certification table-responsive">
-			<table class="table table-bordered">
-				<thead>
+			<table class="table table-bordered table-striped table-sm">
+				<thead class="elegant-color white-text">
 					<th>Title of Certification</th>
 					<th>Certification Authority</th>
 					<th>Domain of Certification</th>
