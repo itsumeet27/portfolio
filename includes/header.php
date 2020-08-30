@@ -54,7 +54,7 @@
             <a class="nav-link" href="experience.php">Work Experience</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="drawings.php">Drawings</a>
+            <a class="nav-link" href="http://drawingsbysumeet.itsumeet.com/">Drawings</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="contact.php">Contact</a>
